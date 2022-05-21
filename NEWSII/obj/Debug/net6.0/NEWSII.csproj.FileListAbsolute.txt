@@ -1,0 +1,15 @@
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/bin/Debug/net6.0/NEWSII
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/bin/Debug/net6.0/NEWSII.deps.json
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/bin/Debug/net6.0/NEWSII.runtimeconfig.json
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/bin/Debug/net6.0/NEWSII.dll
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/bin/Debug/net6.0/NEWSII.pdb
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.csproj.AssemblyReference.cache
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.AssemblyInfoInputs.cache
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.AssemblyInfo.cs
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.csproj.CoreCompileInputs.cache
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.dll
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/refint/NEWSII.dll
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.pdb
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/NEWSII.genruntimeconfig.cache
+/Users/inmetadeveloper/Downloads/NEWSII/NEWSII/obj/Debug/net6.0/ref/NEWSII.dll
